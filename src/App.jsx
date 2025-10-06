@@ -13,7 +13,7 @@ function App() {
     <>
       <Header />
       <main>
-        <Section1 />
+        <Section1/>
         <Section2 />
 
         <Section3 />
