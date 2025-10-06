@@ -8,7 +8,7 @@ function Section4() {
       <div className="work">
         <div className="acc-cerat">
           <a href="#">Explore varieties</a>
-          <h3>Shop for your favorites meal as e dey hot.</h3>
+          <h3>Shop for your favorites meal as e deye hot.</h3>
           <p>
             Shop for your favorite meals or drinks and enjoy while doing it.
           </p>
