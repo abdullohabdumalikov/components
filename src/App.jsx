@@ -6,6 +6,7 @@ import Section2 from "../src/components/main/section2/Section2.jsx";
 import Section3 from "../src/components/main/section3/Section3.jsx";
 import Section4 from "../src/components/main/section4/Section4.jsx";
 import Section5 from "../src/components/main/section5/Section5.jsx";
+import Section6 from "../src/components/main/section6/Section6.jsx";
 import Footer from "../src/components/footer/Footer.jsx";
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
     <>
       <Header />
       <main>
-        <Section1/>
+        <Section1 />
         <Section2 />
 
         <Section3 />
@@ -21,6 +22,7 @@ function App() {
         <Section4 />
 
         <Section5 />
+        <Section6 />
       </main>
 
       <Footer />
