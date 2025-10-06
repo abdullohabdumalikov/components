@@ -1,0 +1,30 @@
+header {
+  margin: 0 auto;
+  width: 90%;
+}
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  gap: 104px;
+}
+
+nav ul li {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #252b42;
+  transition: all 0.2s ease-in-out;
+}
+
+
+nav ul li:hover{
+    color: #FA4A0C;
+    
+}

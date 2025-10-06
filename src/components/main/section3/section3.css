@@ -1,0 +1,44 @@
+.work {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.how-work h2 {
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 137px;
+}
+
+.acc-cerat a {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  color: #fa4a0c;
+}
+
+.acc-cerat h3 {
+  width: 561px;
+  margin-top: 17px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 57px;
+  letter-spacing: 0.2px;
+
+  color: #252b42;
+  margin-bottom: 17px;
+}
+
+.acc-cerat p {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  width: 500px;
+}
